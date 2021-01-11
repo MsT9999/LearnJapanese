@@ -30,7 +30,7 @@ function PlaySound(melody, mode = 1) {
   let path = "gojuon_sound/";
   let snd = new Audio(path + melody + ".mp3");
   if (mode == 1) snd.play();
-  else hwhAudioPlay(snd, mode, 1000);
+  else hwhAudioPlay(snd, mode, 700);
 }
 function hwhAudioPlay(elem, max, times) {
   elem.play();
