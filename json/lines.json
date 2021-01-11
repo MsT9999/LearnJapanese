@@ -1,0 +1,95 @@
+{
+    "line":[
+      {
+        "name" : "海賊王",
+        "charater" : "魯夫",
+        "text" : "俺（おれ）は海賊王（かいぞくおう）になる男（おとこ）だ！",
+        "text2" : "我是要成為海賊王的男人！ ",
+        "text3" : "歐麗娃海澤庫泥拿路偶都股大！"
+      },
+      {
+        "name" : "名偵探柯南",
+        "charater" : "江戶川柯南",
+        "text" : "唯一の1つの真実！",
+        "text2" : "真相只有一個！ ",
+        "text3" : " "
+      },
+      {
+        "name" : "名偵探柯南",
+        "charater" : "旁白",
+        "text" : "たった1つ真実は見抜く見た目は子供、頭脳は大人。その名は「名探偵コナン」！",
+        "text2" : "唯一看穿事實真相的是外表看似小孩 智慧過於常人的名偵探柯南",
+        "text3" : " "
+      },
+      {
+        "name" : "地獄少女",
+        "charater" : "地獄少女",
+        "text" : "もう一度死ぬことを試してみる？",
+        "text2" : "你想試著死一次嗎？",
+        "text3" : " "
+      },
+      {
+        "name" : "地獄少女",
+        "charater" : "地獄少女",
+        "text" : "あなたの怨みを晴らます。",
+        "text2" : "你的怨恨，為你消除",
+        "text3" : "anatano urami harasimasu。"
+      },
+      {
+        "name" : "灼眼的夏娜",
+        "charater" : "夏娜",
+        "text" : "うるさいうるさいうるさい",
+        "text2" : "吵死了，吵死了，吵死了",
+        "text3" : "Urusai urusai urusai"
+      },
+       {
+        "name" : "聖鬥士星矢",
+        "charater" : "星矢",
+        "text" : "燃えろ俺の小宇宙よ！奇蹟を起こせっ！",
+        "text2" : "燃燒吧我的小宇宙！讓奇蹟出現吧！",
+        "text3" : "moero ore no osumo yo! kiseki wo okose !"
+      },
+      {
+        "name" : "美少女戰士",
+        "charater" : "星矢",
+        "text" : "愛と正義の美少女戦士、セーラームーン參上！",
+        "text2" : "我們是代表愛和正義的美少女戰士！",
+        "text3" : "ai to seigi no bishoujousenshi, seiraamuun sanjou"
+      },
+      {
+        "name" : "網球王子",
+        "charater" : "越前龍馬",
+        "text" : "まだまだだね",
+        "text2" : "你還差得遠呢",
+        "text3" : "ma da ma da da ne"
+      },
+      {
+        "name" : "犬夜叉",
+        "charater" : "日暮籬",
+        "text" : "お座り！",
+        "text2" : "給我坐下",
+        "text3" : "osuwari"
+      },
+      {
+        "name" : "EVA",
+        "charater" : "明日香",
+        "text" : "あんだバカ！",
+        "text2" : "你這個笨蛋!",
+        "text3" : "anda baka"
+      },
+       {
+        "name" : "Earth",
+        "charater" : "Everyoe",
+        "text" : "愛してる",
+        "text2" : "我愛你",
+        "text3" : "阿姨洗鐵路"
+      },
+      {
+        "name" : "東京食屍鬼",
+        "charater" : "OP《unravel》",
+        "text" : "教えて 教えてよ",
+        "text2" : "教教我",
+        "text3" : "我洗海帶哦洗海帶哦"
+      }
+      ]
+  }
